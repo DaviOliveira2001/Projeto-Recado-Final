@@ -1,0 +1,44 @@
+body{
+    background: linear-gradient(90deg,
+    rgb(197, 152, 231) 20%,
+    rgb(124, 54, 216) 50%,
+    rgb(197, 152, 231) 70%);
+}
+h1{
+    color: black;
+    font-size: 40px;
+    text-align: center;
+}
+.txt textarea{
+    background-color: rgb(186, 145, 226);
+    color: white;
+    font-size: 20px;
+}
+.txt{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+.data{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+.salvar{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+.salvar input:hover{
+   background-color: blueviolet;
+   color: white;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+.btn button:hover{
+    background-color: blueviolet;
+    color: white;
+}

@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(90deg,
+    rgb(197, 152, 231) 20%,
+    rgb(124, 54, 216) 50%,
+    rgb(197, 152, 231) 70%);
+}
+h1{
+    color: black;
+    text-align: center;
+    font-size: 40px;
+}
+.tudo{
+    padding-top: 50px;
+}
+.email{
+    display: flex;
+    justify-content: center;
+}
+.senha{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+.entrar{
+   display: flex;
+   justify-content: center;
+   padding-top: 10px;
+}
+.cad{
+   display: flex;
+   justify-content: center;
+   padding-top: 10px;
+}

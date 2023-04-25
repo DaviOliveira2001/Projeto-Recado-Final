@@ -1,0 +1,28 @@
+body{
+    background: linear-gradient(90deg,
+    rgb(197, 152, 231) 20%,
+    rgb(124, 54, 216) 50%,
+    rgb(197, 152, 231) 70%);
+}
+
+h1{
+    color: black;
+}
+.email{
+    display: flex;
+    justify-content: center;
+}
+.senha{
+    display: flex;
+    justify-content: center;
+}
+.cadastrar{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.cancel{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
