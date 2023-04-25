@@ -35,6 +35,7 @@ mysqli_close($conn);
 
 <body>
 
+
  	<h1>Lista de Recados</h1>
 	<table>
 		<tr>

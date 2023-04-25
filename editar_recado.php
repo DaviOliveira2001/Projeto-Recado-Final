@@ -53,7 +53,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	<input type="hidden" name="id" id="id"  value="<?php echo $_GET['id']; ?>">
     <textarea name="recado" id="recado" cols="30" rows="10" placeholer="Recado:" ><?php echo $recado; ?></textarea>
     <h2>DATA</h2>
-    <input type="text" name="data" id="data" placeholder="Data: " value="<?php echo $data; ?>">
+    <input type="date" name="data" id="data" placeholder="Data: " value="<?php echo $data; ?>">
     <br>
     <br>
     <button class="botao">Salvar</button>
